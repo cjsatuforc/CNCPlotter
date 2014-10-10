@@ -1,6 +1,6 @@
 CNCPlotter
 
- ![](https://github.com/lukeweston/CNCPlotter/raw/master/CNCPlotter-pcb.png)
+ ![](https://github.com/freetronics/CNCPlotter/raw/master/CNCPlotter-pcb.png)
 
 The Freetronics CNCPlotter board is an Arduino-compatible embedded machine which incorporates two bipolar stepper motor drivers, suitable for CNC experiments and other
 robotics and mechatronics applications.
